@@ -1,3 +1,6 @@
-fn main() {
-    println!("Hello, world!");
+use streaming::launch_server;
+
+#[tokio::main]
+async fn main() {
+    launch_server().await;
 }
