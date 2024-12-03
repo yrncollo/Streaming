@@ -1,9 +1,13 @@
 use routes::router;
+use utils::AppState;
 
 pub mod routes;
-pub async fn launch_server(){
+pub mod utils;
+pub async fn launch_server(app_state: AppState){
     let app = router();
-    let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await.unwrap();
+    let address = format!("{}:{}", app_state.base_url.url, app_state.base_url.port);
+
+    let listener = tokio::net::TcpListener::bind(&address).await.unwrap();
 
     axum::serve(listener, app).await.unwrap();
 }
