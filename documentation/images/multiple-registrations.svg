@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="996.56"
+   viewBox="0 0 1920 996.56"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="4"
+       refY="0"
+       orient="auto-start-reverse"
+       markerWidth="2"
+       markerHeight="2"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(11.274119,-2639.5189)">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke-width:1;stroke-linejoin:bevel"
+       id="rect81"
+       width="1920"
+       height="996.56"
+       x="-11.274111"
+       y="2636.4475" />
+  </g>
+  <g
+     id="layer2"
+     transform="translate(11.274119,-2639.5189)">
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.999994;stroke-linejoin:bevel"
+       id="rect82"
+       width="479"
+       height="224.51749"
+       x="1349.226"
+       y="2716.9475" />
+    <g
+       id="g83"
+       transform="translate(1268.726,2596.4474)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#ffffff;stroke:#000000;stroke-linejoin:bevel"
+         x="120.04239"
+         y="230.5899"
+         id="text82"><tspan
+           id="tspan82"
+           x="120.04239"
+           y="230.5899"
+           style="fill:#000000;stroke:none">john.doe@gmail.com</tspan></text>
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.999995;stroke-linejoin:bevel"
+         id="rect83"
+         width="439"
+         height="31.000002"
+         x="100.5"
+         y="209.4579" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#000000;stroke:none;stroke-linejoin:bevel"
+       x="1557.9099"
+       y="2697.4858"
+       id="text85"><tspan
+         id="tspan85"
+         x="1557.9099"
+         y="2697.4858">/sign-up</tspan></text>
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.999994;stroke-linejoin:bevel"
+       id="rect85"
+       width="479"
+       height="224.51749"
+       x="69.225883"
+       y="3036.8413" />
+    <rect
+       style="fill:#ffffff;stroke:#000000;stroke-width:0.999994;stroke-linejoin:bevel"
+       id="rect86"
+       width="479"
+       height="224.51749"
+       x="709.22583"
+       y="3036.8413" />
+    <g
+       id="g87"
+       transform="translate(-11.27411,2876.3411)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#ffffff;stroke:#000000;stroke-linejoin:bevel"
+         x="120.04239"
+         y="230.5899"
+         id="text86"><tspan
+           id="tspan86"
+           x="120.04239"
+           y="230.5899"
+           style="fill:#808080;stroke:none">Email</tspan></text>
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.999995;stroke-linejoin:bevel"
+         id="rect87"
+         width="439"
+         height="31.000002"
+         x="100.5"
+         y="209.4579" />
+    </g>
+    <g
+       id="g88"
+       transform="translate(-11.27411,2836.3411)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.999995;stroke-linejoin:bevel"
+         id="rect88"
+         width="439"
+         height="47.000004"
+         x="100.5"
+         y="301.45789"
+         ry="23.500002" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#000000;stroke:none;stroke-linejoin:bevel"
+         x="212.912"
+         y="330.67789"
+         id="text88"><tspan
+           id="tspan88"
+           x="212.912"
+           y="330.67789">REGISTER FOR AN ACCOUNT</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-linejoin:bevel"
+       x="277.90988"
+       y="3017.3796"
+       id="text89"><tspan
+         id="tspan89"
+         x="277.90988"
+         y="3017.3796">/sign-up</tspan></text>
+    <g
+       id="g90"
+       transform="translate(628.72588,2876.3411)">
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#ffffff;stroke:#000000;stroke-linejoin:bevel"
+         x="120.04239"
+         y="230.5899"
+         id="text90"><tspan
+           id="tspan90"
+           x="120.04239"
+           y="230.5899"
+           style="fill:#000000;stroke:none">john.doe@gmail.com</tspan></text>
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.999995;stroke-linejoin:bevel"
+         id="rect90"
+         width="439"
+         height="31.000002"
+         x="100.5"
+         y="209.4579" />
+    </g>
+    <g
+       id="g91"
+       transform="translate(628.72588,2836.3411)">
+      <rect
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.999995;stroke-linejoin:bevel"
+         id="rect91"
+         width="439"
+         height="47.000004"
+         x="100.5"
+         y="301.45789"
+         ry="23.500002" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#000000;stroke:none;stroke-linejoin:bevel"
+         x="212.912"
+         y="330.67789"
+         id="text91"><tspan
+           id="tspan91"
+           x="212.912"
+           y="330.67789">REGISTER FOR AN ACCOUNT</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke:none;stroke-linejoin:bevel"
+       x="917.90985"
+       y="3017.3796"
+       id="text92"><tspan
+         id="tspan92"
+         x="917.90985"
+         y="3017.3796">/sign-up</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#37c871;stroke:none;stroke-linejoin:bevel"
+       x="1589.209"
+       y="2762.0454"
+       id="text94"><tspan
+         id="tspan93"
+         x="1589.209"
+         y="2762.0454"
+         style="font-size:14px;text-align:center;text-anchor:middle;fill:#37c871">We have sent a new verification email to your email address.</tspan><tspan
+         x="1589.209"
+         y="2779.5454"
+         style="font-size:14px;text-align:center;text-anchor:middle;fill:#37c871"
+         id="tspan94">Click on the 'Verify Email Address' link/button in the email.</tspan></text>
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:1.04421;stroke-linejoin:bevel"
+       id="rect94"
+       width="272.86682"
+       height="139.17389"
+       x="2711.4504"
+       y="3347.4111"
+       transform="matrix(1,0,-0.3986612,0.91709828,0,0)" />
+    <rect
+       style="opacity:1;fill:#ffffff;stroke:#000000;stroke-width:0.999994;stroke-linejoin:bevel"
+       id="rect95"
+       width="479"
+       height="224.51749"
+       x="1349.226"
+       y="3325.9814" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="M 1188.2259,3036.8412 1349.226,2829.2061"
+       id="path95" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 1188.2259,3149.0999 161.0001,-15.3768"
+       id="path96" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;marker-end:url(#Triangle)"
+       d="m 1188.7259,3261.8587 160.5001,176.3814"
+       id="path97" />
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#0088aa;stroke:none;stroke-linejoin:bevel;stroke-miterlimit:4"
+       x="1347.174"
+       y="3319.3213"
+       id="text97"><tspan
+         id="tspan97"
+         x="1347.174"
+         y="3319.3213"
+         style="font-size:16px;fill:#000000">Email</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#0088aa;stroke:none;stroke-linejoin:bevel;stroke-miterlimit:4"
+       x="1588.8379"
+       y="3412.4001"
+       id="text101"><tspan
+         id="tspan98"
+         x="1588.8379"
+         y="3412.4001"
+         style="font-size:16px;text-align:center;text-anchor:middle;fill:#000000">In order to start using your account, you need to</tspan><tspan
+         x="1588.8379"
+         y="3432.4001"
+         style="font-size:16px;text-align:center;text-anchor:middle;fill:#000000"
+         id="tspan99">confirm your email address.</tspan><tspan
+         x="1588.8379"
+         y="3452.4001"
+         style="font-size:16px;text-align:center;text-anchor:middle;fill:#000000"
+         id="tspan100" /><tspan
+         x="1588.8379"
+         y="3472.4001"
+         style="font-weight:bold;font-size:16px;text-align:center;text-anchor:middle;fill:#0088aa"
+         id="tspan101">Verify Email Address</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#0088aa;stroke:none;stroke-linejoin:bevel;stroke-miterlimit:4"
+       x="1399.0913"
+       y="3139.7231"
+       id="text102"><tspan
+         id="tspan102"
+         x="1399.0913"
+         y="3139.7231"
+         style="font-size:16px;fill:#000000">Update verification code</tspan></text>
+    <g
+       id="g103"
+       transform="translate(1268.726,2585.6466)"
+       style="fill:#999999;stroke:none">
+      <rect
+         style="opacity:1;fill:#999999;stroke:none;stroke-width:0.999995;stroke-linejoin:bevel"
+         id="rect102"
+         width="439"
+         height="47.000004"
+         x="100.49998"
+         y="272.75873"
+         ry="23.500002" />
+      <text
+         xml:space="preserve"
+         style="font-size:16px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;opacity:1;fill:#666666;stroke:none;stroke-linejoin:bevel"
+         x="218.55997"
+         y="301.97873"
+         id="text103"><tspan
+           id="tspan103"
+           x="218.55997"
+           y="301.97873"
+           style="fill:#666666;stroke:none">RESEND EMAIL IN (50 secs)</tspan></text>
+    </g>
+  </g>
+</svg>
